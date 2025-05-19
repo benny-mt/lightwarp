@@ -61,7 +61,7 @@ Now you have edited the lightwarp textures, how does one implement it onto the g
 
 ![image](https://github.com/user-attachments/assets/d79b0a4a-a1aa-41a2-bd67-44f7e876a830)
 <br>
-Follow the instalation guide and once you get the window to open, click on the "install" tab and go ahead and drag in your custom lightwarp folder onto the application. Once done, the lightwarp should show up as an option and all you have to do is click that and then click the "install" button. After that, you can open the game and it should be installed.
+Follow the instalation guide and once you get the window to open, click on the "install" tab and go ahead and click the "open addons folder" button and place your lightwarp inside. Once done, the lightwarp should show up as an option and all you have to do is click that and then click the "install" button. After that, you can open the game and it should be installed.
 <br>
 <br>
 Here are my results!
