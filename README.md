@@ -82,4 +82,22 @@ In the case of the 4th picture, my character is standing in a spot in the map wh
 It all depends on the light!!
 <br>
 <br>
+
+If you are having trouble seeing your lightwarp ingame, it could be because you are first not loading into a private server for the game to compile your custom assets. Hopping straight into a public Valve hosted match will only load official assets (with the exception of a custom player HUD change). To avoid having to do this everytime you boot up the game, create a file called "autoexec.cfg" and place it in a folder called "overrides" inside the "cfg" folder in the TF2 files.
+<br>
+![image](https://github.com/user-attachments/assets/dbdc3a56-0ecb-480e-b4ad-9e0a50ce61cb)
+<br>
+Enter in the previous line of code onto the file.
+<br>
+<br>
+map_background itemtest - loads up the small "itemtest" map in the background. This allows the game to compile all custom assets in a private "itemtest" server.<br>
+wait 5 - wait 5 seconds once the map is loaded. This is to ensure the map has time to load up the custom assets.
+disconnect - disconnects us from the private server
+wait 3 - this line is mostly a safeguard the game disconnects from the server. In the slim chance that I open and get into a match while the game is still disconnecting from another, I don't want to potentially mess anything up, thus forcing me to wait 3 seconds before doing anything is preferred.
+echo - tells me through the terminal when the process is done.
+<br>
+<br>
+(You've probably noticed that there is a commented line above that details similar commands to the ones presented. You can modify the time spent while waiting, however I cut it down to 5 seconds since my hardware is fast enough to load things around that timeframe. For slower computers I would recommend longer wait times, just to ensure everything loads correctly.)
+<br>
+<br>
 If you've followed the guide correclty, you should be able to create and apply your own custom-made lightwarps onto Team Fortress 2.
