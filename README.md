@@ -59,7 +59,8 @@ You will quickly notice that a lot of the files share the same lightwarp texture
 <br>
 Now you have edited the lightwarp textures, how does one implement it onto the game? It's pretty simple thanks to another tool created by "cukei" and his team over on GameBanana (https://gamebanana.com/tools/19049). Due to TF2's online ecosystem, some modifications dont usually show up on officially hosted servers, this tool allows that and also simplifies the way to install lightwarps.
 
-![image](https://github.com/user-attachments/assets/d79b0a4a-a1aa-41a2-bd67-44f7e876a830)
+![image](https://github.com/user-attachments/assets/39ed72cf-97a8-4e4b-b03b-9c6dc006a55f)
+
 <br>
 Follow the instalation guide and once you get the window to open, click on the "install" tab and go ahead and click the "open addons folder" button and place your lightwarp inside. Once done, the lightwarp should show up as an option and all you have to do is click that and then click the "install" button. After that, you can open the game and it should be installed.
 <br>
